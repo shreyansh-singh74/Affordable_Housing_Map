@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+folium
+geopandas
+streamlit-folium
+matplotlib
+plotly
+shapely
+pyproj
+rtree
+fiona
+geopy
+kagglehub

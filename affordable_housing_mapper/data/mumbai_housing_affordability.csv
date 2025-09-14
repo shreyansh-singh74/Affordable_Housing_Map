@@ -1,0 +1,26 @@
+Neighborhood,Latitude,Longitude,Avg_House_Price_INR,Median_Annual_Household_Income_INR,Affordability_Index,Avg_Rent_Monthly_INR,Avg_Bedrooms,Property_Type,Year_Built_Avg,Dist_to_CBD_km,Population_Density_per_km2,Notes
+Bandra,19.05,72.84,120000000,1800000,66.67,120000,2.0,Apartment,2005,8.0,27000,"High demand, premium locality"
+Juhu,19.0983,72.8269,150000000,2100000,71.43,150000,3.0,Apartment,2008,10.0,12000,Beachfront premium
+Andheri West,19.1196,72.8462,85000000,1200000,70.83,65000,2.0,Apartment,2010,12.0,30000,Popular with professionals
+Powai,19.1187,72.9008,95000000,1600000,59.38,70000,2.5,Apartment,2012,16.0,18000,"Tech hub, lakeside"
+Worli,18.9934,72.8096,130000000,1900000,68.42,110000,2.0,Apartment,2011,6.0,22000,Sea view skyscrapers
+Lower Parel,18.9975,72.8177,110000000,1700000,64.71,90000,2.0,Apartment,2010,5.5,25000,Commercial + luxury
+Colaba,18.9124,72.8148,95000000,1300000,73.08,85000,2.0,Apartment,1995,2.0,10000,"Tourist hub, heritage area"
+Dadar,19.0208,72.8498,55000000,900000,61.11,42000,2.0,Apartment,1990,6.0,35000,Transit & residential mix
+Chembur,19.039,72.9036,48000000,850000,56.47,30000,2.0,Apartment,2000,14.0,28000,Growing suburb
+Khar,19.06,72.829,80000000,1250000,64.0,60000,2.0,Apartment,2007,9.0,20000,Upscale residential
+Santacruz,19.0883,72.8248,75000000,1100000,68.18,55000,2.0,Apartment,2006,11.0,21000,Close to airport
+Goregaon,19.151,72.85,50000000,800000,62.5,35000,2.0,Apartment,2010,18.0,32000,IT parks nearby
+Malad,19.186,72.856,40000000,700000,57.14,28000,2.0,Apartment,2005,20.0,33000,Affordable suburb
+Borivali,19.231,72.8562,32000000,600000,53.33,20000,2.0,Apartment,2000,26.0,38000,"Edge of city, family areas"
+Ghatkopar,19.0728,72.8997,45000000,750000,60.0,32000,2.0,Apartment,2003,15.0,34000,Well-connected
+Kurla,19.063,72.8795,35000000,680000,51.47,25000,2.0,Apartment,1998,13.0,36000,Industrial & residential mix
+Matunga,19.0224,72.8406,42000000,820000,51.22,30000,2.0,Apartment,1985,7.0,30000,"Academic zones, stable market"
+Byculla,18.981,72.833,30000000,600000,50.0,22000,2.0,Apartment,1995,4.5,40000,"Old textile mills area, redevelopment"
+Sion,19.01,72.848,38000000,700000,54.29,26000,2.0,Apartment,1990,8.0,35000,Transit junction
+Shivaji Park,19.0179,72.8411,65000000,1000000,65.0,48000,2.0,Apartment,1975,6.0,29000,Heritage residential
+Mahim,19.0276,72.8265,58000000,950000,61.05,45000,2.0,Apartment,1980,6.5,31000,Mixed-use pockets
+Vile Parle,19.0968,72.84,70000000,1150000,60.87,60000,2.0,Apartment,2004,10.0,23000,Proximity to airport & colleges
+Kandivali,19.212,72.848,28000000,550000,50.91,18000,2.0,Apartment,2000,22.0,36000,"Suburban, more affordable"
+Vashi (Navi Mumbai),19.0738,72.9964,26000000,520000,50.0,17000,2.0,Apartment,2005,28.0,25000,"Planned township, commuter hub"
+Thane (West),19.2183,72.9781,34000000,650000,52.31,23000,2.0,Apartment,2006,30.0,29000,"Satellite city, growing demand"
